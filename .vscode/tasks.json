@@ -13,27 +13,6 @@
 			"isBackground": true,
 			"problemMatcher": [],
 			"group": "build"
-		},
-		{
-			"label": "Initialize portfolio Git repo",
-			"type": "shell",
-			"command": "git",
-			"args": [
-				"init"
-			],
-			"isBackground": false,
-			"problemMatcher": []
-		},
-		{
-			"label": "Stage portfolio files",
-			"type": "shell",
-			"command": "git",
-			"args": [
-				"add",
-				"-A"
-			],
-			"isBackground": false,
-			"problemMatcher": []
 		}
 	]
 }
